@@ -1,0 +1,1 @@
+<p style="text-align:center;"><img src= "https://i.imgur.com/0YeaSuU.gif" width="180" height="180" class="center"></p>
